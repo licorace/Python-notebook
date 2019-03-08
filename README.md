@@ -1,3 +1,2 @@
 # Python-notebook
-关于Python学习中的一些代码记录
-这是一个关于控制时间的python代码
+这是一个摄氏度转化华氏度，华氏度转摄氏度的简单python代码~
